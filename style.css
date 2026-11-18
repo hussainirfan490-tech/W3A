@@ -1,0 +1,27 @@
+.animal3-card {
+    width: 300px;
+    border: 2px solid #ccc;
+    padding: 100px;
+    margin: 10px;
+    border-radius: 10px;
+}
+#sites-header {
+    background-color: #819ed2;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.animal3-card img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+  
